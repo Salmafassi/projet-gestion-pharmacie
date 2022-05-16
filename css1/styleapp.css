@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2? family= WindSong & display=swap');
+
+#logopharmacie{
+    margin-top:5px;
+    font-family :Verdana, Geneva, Tahoma, sans-serif;
+    color:green;
+    text-align: center;
+    font-weight: bold;
+    
+}
+.size{
+    margin-left:700px ;
+}
+.pt-3-half { padding-top: 1.4rem; }
+.content{
+    min-height: 250px;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    padding-left: 15px;
+    padding-right: 15px;
+}
+.box{
+    position: relative;
+    border-radius: 3px;
+    background: #ffffff;
+    border-top: 3px solid #d2d6de;
+    margin-bottom: 20px;
+    width: 100%;
+    box-shadow: 0 1px 1px rgb(0 0 0 / 10%);
+}
